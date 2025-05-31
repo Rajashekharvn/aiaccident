@@ -1,0 +1,3 @@
+activate project
+cd C:\Users\rajun\OneDrive\Desktop\final code
+python test.py
